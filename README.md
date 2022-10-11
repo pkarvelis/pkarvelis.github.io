@@ -48,8 +48,8 @@ If you want to test locally on your machine, do the following steps also:
 You must fill some informations on `_config.yml` to customize your site.
 
 ```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Petros Karvelis
+bio: 'Assistant Professor, Department of Informatics and Telecommunications, University of Ioannina'
 picture: 'assets/images/profile.jpg'
 ...
 
